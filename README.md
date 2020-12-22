@@ -1,2 +1,2 @@
 # Secrets
-Authentication using Passport
+Authentication using Passport.js
